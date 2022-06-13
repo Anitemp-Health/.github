@@ -6,6 +6,3 @@
 
 Anitemp provides multiple user data to record animals body temperature and transfer record to another devices.
 
-## Supported animals
-
-* Human
